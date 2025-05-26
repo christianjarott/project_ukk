@@ -1,7 +1,7 @@
 <div class="p-4">
     <div class="relative mb-6 w-full grid grid-cols-12 gap-4">
         <div class="col-span-12 md:col-span-6 flex justify-start items-center">
-            <a href="{{ route('siswa.create') }}" class="bg-gray-600 text-white px-6 py-3 rounded-md hover:bg-gray-800 transition duration-200">
+            <a href="{{ route('siswa.create') }}" class="bg-black text-white px-6 py-3 rounded-md hover:bg-gray-800 transition duration-200">
                 Tambah Siswa
             </a>
         </div>
